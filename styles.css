@@ -7,3 +7,7 @@ h1 {
 }
 
 #content {text-decoration: underline}
+
+.my-list{
+    list-style: square;
+}
