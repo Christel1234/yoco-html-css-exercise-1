@@ -1,1 +1,1 @@
-# yoco-html-css-exercise-1
+# HTML/CSS: Exercise 1
