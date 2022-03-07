@@ -6,7 +6,9 @@ h1 {
     color: green; 
 }
 
-#content {text-decoration: underline}
+#content {
+    text-decoration: underline;
+}
 
 .my-list{
     list-style: square;
